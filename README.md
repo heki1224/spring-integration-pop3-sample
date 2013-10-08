@@ -32,3 +32,7 @@ logback 1.0.11
 参考(Link)
 ----------------
   
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/heki1224/spring-integration-pop3-sample/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
